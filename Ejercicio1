@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!-- Este es mi primer comentario de dos lineas -->
+        <!-- Aprendiendo a documentar mi codigo con OpenBootcamp -->
+    <div>
+        <h3> Mis tres videos favoritos</h3>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=Ovz1K5ieNCQ">TVアニメ『古見さんは、コミュ症です。』2期 ノンクレジットED【FantasticYouth「小喋日和」】 | 毎週水曜日24時～テレビ東京ほかにて放送中</a></li>
+            <li><a href="https://youtu.be/u_wLt2PPuCo">[sumika] FICTION (wotaku ni koi wa muzukashii/ヲタクに恋は難しい OP) LYRICS jap/rom/eng</a></li>
+            <li><a href="https://youtu.be/K1PCl5D-IpU">Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai ED [Part Section]「Fukashigi no Carte」</a></li>
+        </ul>
+    </div>
+    </body>
+</html>
